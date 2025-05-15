@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GoORMHelperCache">
+    <option name="schemaMapping">
+      <map>
+        <entry key="Handler">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/transport/grpc/handler.go" />
+              <option value="file://$PROJECT_DIR$/../test_user-service/internal/transport/grpc/handler.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Repository">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/task/repository.go" />
+              <option value="file://$PROJECT_DIR$/../test_user-service/internal/user/repository.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Service">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/task/service.go" />
+              <option value="file://$PROJECT_DIR$/../test_user-service/internal/user/service.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="Task">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/task/model.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="User">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/../test_user-service/internal/user/model.go" />
+            </set>
+          </value>
+        </entry>
+        <entry key="UserClient">
+          <value>
+            <set>
+              <option value="file://$PROJECT_DIR$/internal/client/client.go" />
+              <option value="file://$PROJECT_DIR$/internal/transport/grpc/client.go" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="scannedPathMapping">
+      <map>
+        <entry key="file://$PROJECT_DIR$/cmd/server/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747322060665" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/client/client.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747323191666" />
+              <option name="schema">
+                <list>
+                  <option value="UserClient" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/database/db.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747321610719" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/task/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747321380008" />
+              <option name="schema">
+                <list>
+                  <option value="Task" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/task/repository.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747321407497" />
+              <option name="schema">
+                <list>
+                  <option value="Repository" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/task/service.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747322126773" />
+              <option name="schema">
+                <list>
+                  <option value="Service" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/transport/grpc/client.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747320193283" />
+              <option name="schema">
+                <list>
+                  <option value="UserClient" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/transport/grpc/handler.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747322297607" />
+              <option name="schema">
+                <list>
+                  <option value="Handler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/internal/transport/grpc/server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747321283368" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../test_user-service/cmd/server/main.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747321190163" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../test_user-service/internal/database/db.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747320705969" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../test_user-service/internal/transport/grpc/handler.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747323425902" />
+              <option name="schema">
+                <list>
+                  <option value="Handler" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../test_user-service/internal/transport/grpc/server.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747321169518" />
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../test_user-service/internal/user/model.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747323517353" />
+              <option name="schema">
+                <list>
+                  <option value="User" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../test_user-service/internal/user/repository.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747323391553" />
+              <option name="schema">
+                <list>
+                  <option value="Repository" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+        <entry key="file://$PROJECT_DIR$/../test_user-service/internal/user/service.go">
+          <value>
+            <ScannedPath>
+              <option name="lastModified" value="1747323401449" />
+              <option name="schema">
+                <list>
+                  <option value="Service" />
+                </list>
+              </option>
+            </ScannedPath>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="tableStructMapping">
+      <map>
+        <entry key="handler" value="Handler" />
+        <entry key="repository" value="Repository" />
+        <entry key="service" value="Service" />
+        <entry key="task" value="Task" />
+        <entry key="user" value="User" />
+        <entry key="user_client" value="UserClient" />
+      </map>
+    </option>
+    <option name="lastTimeChecked" value="1747317268208" />
+  </component>
+</project>
